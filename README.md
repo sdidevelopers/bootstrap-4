@@ -1,6 +1,8 @@
 # Tempus Dominus Bootstrap 4
 ![GitHub version](https://badge.fury.io/gh/tempusdominus%2Fbootstrap-3-datetimepicker.png)
 
+:warning: This project is just a copy pasta of the original bootstrap-4 project. I just needed to make a slight change.
+
 # Version 5
 This is the Bootstrap 4 component of the new Version 5. This is a "scorched earth" version and there are **a lot** of breaking changes.
 
